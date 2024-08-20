@@ -7,37 +7,14 @@ window.Pragati = window.Pragati || {};
     money_format: "Rs. {{amount}}",
   };
   window.Pragati.common.product = {
-    id: 9000548991257,
+    id: 9415710114079,
     title: "Portable 12X View F3 Screen Expander 3D HD Magnifier for Mobiles",
     price: 69700,
-    featured_image:
-      "\/\/pgq06zt0fznhpr7g-70777307423.shopifypreview.com\/cdn\/shop\/files\/otqcpy5skdbqcfzfmchf.webp?v=1724168598",
+    featured_image: "\/\/pgq06zt0fznhpr7g-70777307423.shopifypreview.com\/cdn\/shop\/files\/otqcpy5skdbqcfzfmchf.webp?v=1724168598",
     variant: 49156984865055,
-    all_variants: [
-      {
-        id: 47640991007001,
-        title: "Free Size",
-        option1: "Free Size",
-        option2: null,
-        option3: null,
-        sku: "4364329189",
-        requires_shipping: true,
-        taxable: false,
-        featured_image: null,
-        available: true,
-        name: "Active Enzyme Laundry Stain Remover (100ml Each) (2) - Free Size",
-        public_title: "Free Size",
-        options: ["Free Size"],
-        price: 59900,
-        weight: 0,
-        compare_at_price: 100000,
-        inventory_management: "shopify",
-        barcode: "",
-        requires_selling_plan: false,
-        selling_plan_allocations: [],
-      },
-    ],
-  };
+    all_variants: [{"id":49156984865055,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"7162274074","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Portable 12X View F3 Screen Expander 3D HD Magnifier for Mobiles","public_title":null,"options":["Default Title"],"price":69700,"weight":0,"compare_at_price":129700,"inventory_management":"shopify","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}}],
+  }
+
 
   window.Pragati.common.metafield = {
     buy_button: {
