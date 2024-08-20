@@ -13,7 +13,7 @@ window.Pragati = window.Pragati || {};
     featured_image: "\/\/pgq06zt0fznhpr7g-70777307423.shopifypreview.com\/cdn\/shop\/files\/otqcpy5skdbqcfzfmchf.webp?v=1724168598",
     variant: 49156984865055,
     all_variants: [{"id":49156984865055,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"7162274074","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"name":"Portable 12X View F3 Screen Expander 3D HD Magnifier for Mobiles","public_title":null,"options":["Default Title"],"price":69700,"weight":0,"compare_at_price":129700,"inventory_management":"shopify","barcode":null,"requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}}],
-  }
+  };
 
 
   window.Pragati.common.metafield = {
